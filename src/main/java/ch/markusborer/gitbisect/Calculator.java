@@ -12,6 +12,7 @@ public class Calculator {
 
     public static int mult(int a, int b) {
         // Comment 1
+        // Comment 2
         return a * b;
     }
 
