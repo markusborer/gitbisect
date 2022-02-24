@@ -15,6 +15,7 @@ public class Calculator {
         // Comment 2
         return -(a * b);
         // Comment 3
+        // Comment 4
     }
 
 
